@@ -1,0 +1,122 @@
+.Body{
+    background-color:rgb(46, 40, 40);
+    background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-purple-star-universe-digital-products-psd-layered-main-picture-picture-image_1101973.jpg');
+}
+.carousel-item{
+    height: 500px;
+}
+.card-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.my-card{
+    padding-left: 1230px;
+}
+.card-h1{
+    color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+.social-card{
+    align-items: center;
+}
+.social-icon{
+    height: 80px;
+    align-items: center;
+}
+.s1{
+    padding: 50px;
+}
+.shopimg{
+    height: 400px;
+    align-items: end;
+
+}
+.badges-case{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    color: rgb(0, 255, 81);
+}
+
+.nav-link-item-nav{
+    padding: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    
+}
+.nav-link-item-nav:hover{
+    color: rgb(23, 249, 23);
+    border: 1px solid greenyellow;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.navbar-heading{
+    color: white;
+    font-size: 25px;
+}
+.navbar-heading:hover{
+    color: darkgoldenrod;
+}
+.services{
+    padding: 50px;
+text-align: center;
+                    
+}
+.serv-h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(191, 255, 0);
+    letter-spacing: 3px;
+font-size: 50px;
+font-style: italic;
+}
+.services-sub-contaniner{
+    display: flex;
+    flex-direction: row;
+}
+.serivces-card{
+    border: 2px rgb(128, 0, 64) solid;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+}
+.sev-h1{
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 35px;
+    color: rgb(228, 243, 15);
+    
+}
+.sev-h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    
+    
+}
+
+.sev-h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkorange;
+    
+}
+.sev-p{
+    font-family: cursive;
+    font-size: 19px;
+color:rgb(37, 181, 37);
+}
+.follow-icons{
+    padding-left: 500px;
+}
+.contact-info{
+    padding-left: 550px;
+    padding-top: 100px;
+}
+.con-h1{
+    color: crimson;
+    font-size: 75px;
+
+}
+.con-p{
+    color: chartreuse;
+    font-size: 25px;
+    padding-left: 25px;
+}
